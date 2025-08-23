@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @thesachinmathew
-- 😄 Pronouns: zack snyder's justice league
-- ⚡ Fun fact: trex may have had feathers.
 - I am an Engineer based in India! 
 
 <!---
